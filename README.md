@@ -1,2 +1,5 @@
-# -
-主要包括前端常见的面试（算法数据结构...）
+# fe-interview
+
+npm install
+
+npm run dev
