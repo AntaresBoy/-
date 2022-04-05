@@ -103,7 +103,7 @@ JWT 的缺点
 
 ### SSO
 
-复杂一点的，滴滴这么潮的公司，同时拥有 `didichuxing.com` `xiaojukeji.com` `didiglobal.com` 等域名，种 cookie 是完全绕不开的。需要使用 SSO 技术方案
+复杂一点的，滴滴这么潮的公司，同时拥有 `didichuxing.com` `xiaojukeji.com` `didiglobal.com` 等域名，种 cookie 是完全绕不开的。需要使用 SSO 技术方案（此处画图有误，参考：https://shimo.im/docs/dPkpK9LVM5hKoZqO-4.8）
 
 ![](./img/sso.png)
 
